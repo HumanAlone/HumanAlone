@@ -59,14 +59,11 @@ Here are some ideas to get you started:
 - **Резюме:** [hh.ru профиль](https://hh.ru/resume/2327398eff0f8e31850039ed1f51776879784d)
 
 ## 🛠 Технологический стек
-
-**Data Science & ML:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> Python • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="16" height="16"/> Pandas • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="16" height="16"/> NumPy • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="16" height="16"/> Jupyter • Scikit-learn
-
-**Backend & Infra:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="16" height="16"/> FastAPI • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="16" height="16"/> Docker • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="16" height="16"/> PostgreSQL • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16" height="16"/> Git
-
-**NLP & LLM:** LangChain • LLM • RAG • Prompt Engineering
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+| Категория | Технологии |
+| :--- | :--- |
+| **Data Science & ML** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) |
+| **NLP & LLM** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat) ![LLM](https://img.shields.io/badge/LLM-FF6B35?style=flat) ![RAG](https://img.shields.io/badge/RAG-4A90E2?style=flat) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7B68EE?style=flat) |
+| **Backend & Infra** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logoColor=white) |
 
 ---
 
