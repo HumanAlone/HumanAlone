@@ -34,55 +34,6 @@ Here are some ideas to get you started:
 
 ## 📬 Контакты
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-- **Email:** [SergeyNaryshkin@inbox.ru](mailto:SergeyNaryshkin@inbox.ru)
-- **Telegram:** [@la_mort_rouge](https://t.me/la_mort_rouge)
-- **Резюме:** [hh.ru профиль](https://hh.ru/resume/2327398eff0f8e31850039ed1f51776879784d)
-
-</td>
-<td valign="top" width="50%" align="center">
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumanAlone&layout=compact&theme=default&hide_border=true&hide_title=true&exclude_repo=HumanAlone" />
-</div>
-
-</td>
-</tr>
-</table>
-
----
-## 📬 Контакты и активность
-
-<div align="center">
-
-<table>
-<tr>
-<td align="left">
-
-<div style="padding-top: 15px;">
-  
-• **Email:** [SergeyNaryshkin@inbox.ru](mailto:SergeyNaryshkin@inbox.ru)<br>
-• **Telegram:** [@la_mort_rouge](https://t.me/la_mort_rouge)<br>
-• **Резюме:** [hh.ru профиль](https://hh.ru/resume/ВАШ_ID)
-</div>
-
-</td>
-<td align="left">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumanAlone&layout=compact&theme=default&hide_border=true&hide_title=true&exclude_repo=HumanAlone" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
-
-
-## 📬 Контакты и активность
-
 <div align="center">
 
 <table style="padding-left: 30px; padding-right: 30px;">
@@ -91,9 +42,10 @@ Here are some ideas to get you started:
 
 <div style="padding-top: 15px;">
   
-• **Email:** [SergeyNaryshkin@inbox.ru](mailto:SergeyNaryshkin@inbox.ru)<br>
-• **Telegram:** [@la_mort_rouge](https://t.me/la_mort_rouge)<br>
-• **Резюме:** [hh.ru профиль](https://hh.ru/resume/ВАШ_ID)
+- **Email:** [SergeyNaryshkin@inbox.ru](mailto:SergeyNaryshkin@inbox.ru)
+- **Telegram:** [@la_mort_rouge](https://t.me/la_mort_rouge)
+- **Резюме:** [hh.ru профиль](https://hh.ru/resume/2327398eff0f8e31850039ed1f51776879784d)
+
 </div>
 
 </td>
@@ -107,31 +59,4 @@ Here are some ideas to get you started:
 
 </div>
 
-## 📬 Контакты и активность
 
-<div align="center" style="padding-left: 40px; padding-right: 40px;">
-
-<table>
-<tr>
-<td align="left">
-
-
-<div style="padding-top: 15px; padding-left: 20px; padding-right: 20px;">
-  
-• **Email:** [SergeyNaryshkin@inbox.ru](mailto:SergeyNaryshkin@inbox.ru)<br>
-• **Telegram:** [@la_mort_rouge](https://t.me/la_mort_rouge)<br>
-• **Резюме:** [hh.ru профиль](https://hh.ru/resume/ВАШ_ID)
-</div>
-
-</td>
-
-</td>
-<td align="left">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumanAlone&layout=compact&theme=default&hide_border=true&hide_title=true&exclude_repo=HumanAlone" />
-
-</td>
-</tr>
-</table>
-
-</div>
