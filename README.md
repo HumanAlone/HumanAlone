@@ -14,3 +14,77 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# 👋 Сергей Нарышкин | Python Developer → Data Science
+
+*Python-разработчик с 3+ годами опыта, специализируюсь на анализе данных и ML. Стратегически перехожу в Data Science, чтобы глубже применять алгоритмы машинного обучения для решения сложных бизнес-задач.*
+
+## 🛠 Технологический стек
+
+### **Data Science & Machine Learning**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+### **NLP & Large Language Models**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-FF6B35?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-4A90E2?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7B68EE?style=for-the-badge)
+
+### **Backend Development**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **Tools & Infrastructure**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
+
+## 💼 Ключевые проекты
+
+### **🤖 NLP & LLM проекты** | Иннотех
+*Разработка решений на стыке Data Science и инженерии*
+- Разработка и оптимизация систем промптов (Prompt Engineering) для классификации текстов
+- Создание RAG-систем для генерации контекстно-зависимых ответов
+- Разработка демо-приложений для визуализации работы NLP-решений
+
+### **🏦 Кредитный скоринг** | МСП Банк
+*Реализация ML-моделей для финансового сектора*
+- Разработка Python-модулей для расчета риск-метрик (PD, LGD)
+- Интеграция скоринговых моделей в production-среду
+- Автоматизация ETL-процессов для загрузки данных
+
+### **🛠️ Backend & Data Analysis** | Сбер, Метрополитен
+*Создание бэкенд-систем и аналитических инструментов*
+- Разработка с нуля backend-сервиса на Flask с REST API
+- Автоматизация отчетности с использованием Pandas и Matplotlib
+- Оптимизация ETL-конвейеров и SQL-запросов
+
+## 🎓 Образование
+- **Магистр машинного обучения** | Финансовый университет при Правительстве РФ (2025, красный диплом)
+- **Участник хакатонов**: "Лидеры цифровой трансформации 2025", "AI Devtools Hack"
+
+## 📈 GitHub активность
+<!-- Добавь эти виджеты -->
+<div align="center">
+
+![Статистика](https://github-readme-stats.vercel.app/api?username=HumanAlone&show_icons=true&theme=default&hide_title=true)
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=HumanAlone&layout=compact&theme=default)
+
+</div>
+
+## 📫 Контакты
+- **Email:** [SergeyNaryshkin@inbox.ru](mailto:SergeyNaryshkin@inbox.ru)
+- **Telegram:** [@HumanAlone](https://t.me/HumanAlone)
+- **Резюме:** [hh.ru профиль](ссылка_на_резюме)
+
+---
+
+*Ищу интересные проекты на стыке Data Science, ML-инженерии и анализа данных*
