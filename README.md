@@ -32,30 +32,19 @@ Here are some ideas to get you started:
 - **Лидеры цифровой трансформации 2025**
 - **AI Devtools Hack**
 
-
-## 📫 Контакты
-- **Email:** [SergeyNaryshkin@inbox.ru](mailto:SergeyNaryshkin@inbox.ru)
-- **Telegram:** [@la_mort_rouge](https://t.me/la_mort_rouge)
-- **Резюме:** [hh.ru профиль](https://hh.ru/resume/2327398eff0f8e31850039ed1f51776879784d)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HumanAlone&layout=compact&theme=default&hide_border=true&hide_title=true)
-
-
-## 📬 Контакты и активность
+## 📬 Контакты
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-**Контактная информация**
 - **Email:** [SergeyNaryshkin@inbox.ru](mailto:SergeyNaryshkin@inbox.ru)
 - **Telegram:** [@la_mort_rouge](https://t.me/la_mort_rouge)
-- **Резюме:** [hh.ru профиль](https://hh.ru/resume/ВАШ_ID) *(вставьте прямую ссылку)*
+- **Резюме:** [hh.ru профиль](https://hh.ru/resume/2327398eff0f8e31850039ed1f51776879784d)
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%" align="center">
 
-**Частота использования языков**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HumanAlone&layout=compact&theme=default&hide_border=true&hide_title=true&exclude_repo=HumanAlone)
 
 </td>
