@@ -45,6 +45,57 @@ Here are some ideas to get you started:
 </td>
 <td valign="top" width="50%" align="center">
 
+
+## 📬 Контакты и активность
+
+<table>
+<tr>
+<!-- Левая колонка: контакты выровнены по левому краю -->
+<td valign="top" width="50%" align="left">
+
+**Контактная информация**<br>
+- **Email:** [SergeyNaryshkin@inbox.ru](mailto:SergeyNaryshkin@inbox.ru)<br>
+- **Telegram:** [@la_mort_rouge](https://t.me/la_mort_rouge)<br>
+- **Резюме:** [hh.ru профиль](https://hh.ru/resume/ВАШ_ID)
+
+</td>
+<!-- Правая колонка: контент прижат к правому краю ячейки -->
+<td valign="top" width="50%" align="right">
+
+**Частота использования языков**<br>
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumanAlone&layout=compact&theme=default&hide_border=true&hide_title=true&exclude_repo=HumanAlone" />
+</div>
+
+</td>
+</tr>
+</table>
+
+
+## 📬 Контакты и активность
+
+<table>
+<tr>
+<!-- Левая колонка: контакты выровнены по левому краю -->
+<td valign="top" width="50%" align="left">
+
+- **Email:** [SergeyNaryshkin@inbox.ru](mailto:SergeyNaryshkin@inbox.ru)<br>
+- **Telegram:** [@la_mort_rouge](https://t.me/la_mort_rouge)<br>
+- **Резюме:** [hh.ru профиль](https://hh.ru/resume/ВАШ_ID)
+
+</td>
+<!-- Правая колонка: контент прижат к правому краю ячейки -->
+<td valign="top" width="50%" align="right">
+
+
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumanAlone&layout=compact&theme=default&hide_border=true&hide_title=true&exclude_repo=HumanAlone" />
+</div>
+
+</td>
+</tr>
+</table>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HumanAlone&layout=compact&theme=default&hide_border=true&hide_title=true&exclude_repo=HumanAlone)
 
 </td>
