@@ -54,25 +54,26 @@ Here are some ideas to get you started:
 
 ---
 
-## 📬 Контакты и активность
+## 📬 Контакты
 
-<table width="1012">
+<div align="center">
+
+<table>
 <tr>
-<!-- Левая колонка: займёт ~700px, оставив место справа -->
-<td valign="top" align="left" width="700">
+<td valign="top" align="left">
 
-**Контактная информация**<br>
 • **Email:** [SergeyNaryshkin@inbox.ru](mailto:SergeyNaryshkin@inbox.ru)<br>
 • **Telegram:** [@la_mort_rouge](https://t.me/la_mort_rouge)<br>
-• **Резюме:** [hh.ru профиль](https://hh.ru/resume/ВАШ_ID)
+• **Резюме:** [hh.ru профиль](https://hh.ru/resume/ВАШ_ID)<br>
+&nbsp; <!-- Невидимый пробел для выравнивания высоты -->
 
 </td>
-<!-- Правая колонка: займёт оставшиеся ~312px и будет у края -->
-<td valign="top" align="left" width="312">
+<td valign="top" align="left">
 
-**Частота использования языков**<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumanAlone&layout=compact&theme=default&hide_border=true&hide_title=true&exclude_repo=HumanAlone" />
 
 </td>
 </tr>
 </table>
+
+</div>
