@@ -40,7 +40,7 @@ Python-разработчик с 3+ годами опыта, специализ�
 <tr>
 <td align="left">
 
-<div style="padding-top: 20px;">
+<div style="padding-top: 25px;">
   
 - **Email:** [SergeyNaryshkin@inbox.ru](mailto:SergeyNaryshkin@inbox.ru)
 - **Telegram:** [@la_mort_rouge](https://t.me/la_mort_rouge)
