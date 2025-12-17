@@ -44,6 +44,13 @@ Here are some ideas to get you started:
 - **Резюме:** [hh.ru профиль](https://hh.ru/resume/2327398eff0f8e31850039ed1f51776879784d)
 
 
----
+**📈 Используемые языки**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HumanAlone&layout=compact&theme=default&hide_border=true&hide_title=true)
 
-*Ищу интересные проекты в области Data Science, ML-инженерии и анализа данных*
+## 🛠 Технологический стек
+
+| Категория | Технологии |
+| :--- | :--- |
+| **Data Science & ML** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="18" /> Python • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="18" /> Pandas • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" width="18" /> NumPy • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" width="18" /> Jupyter • Scikit-learn • Matplotlib • PyTorch |
+| **NLP & LLM** | LangChain • LLM • RAG • Prompt Engineering |
+| **Backend & Infra** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" width="18" /> FastAPI • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" width="18" /> Flask • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="18" /> Docker • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="18" /> PostgreSQL • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="18" /> Git • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="18" /> Linux • Pytest • SQLAlchemy |
