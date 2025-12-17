@@ -115,12 +115,15 @@ Here are some ideas to get you started:
 <tr>
 <td align="left">
 
-<div style="padding-top: 15px;">
+
+<div style="padding-top: 15px; padding-left: 20px; padding-right: 20px;">
   
 • **Email:** [SergeyNaryshkin@inbox.ru](mailto:SergeyNaryshkin@inbox.ru)<br>
 • **Telegram:** [@la_mort_rouge](https://t.me/la_mort_rouge)<br>
 • **Резюме:** [hh.ru профиль](https://hh.ru/resume/ВАШ_ID)
 </div>
+
+</td>
 
 </td>
 <td align="left">
