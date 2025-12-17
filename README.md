@@ -60,11 +60,11 @@ Here are some ideas to get you started:
 
 <table>
 <tr>
-<td valign="top" align="left" style="padding-top: 10px;">
+<td valign="top" align="left" style="padding-top: 15px;">
 
-• **Email:** [SergeyNaryshkin@inbox.ru](mailto:SergeyNaryshkin@inbox.ru)<br>
-• **Telegram:** [@la_mort_rouge](https://t.me/la_mort_rouge)<br>
-• **Резюме:** [hh.ru профиль](https://hh.ru/resume/ВАШ_ID)
+- **Email:** [SergeyNaryshkin@inbox.ru](mailto:SergeyNaryshkin@inbox.ru)<br>
+- **Telegram:** [@la_mort_rouge](https://t.me/la_mort_rouge)<br>
+- **Резюме:** [hh.ru профиль](https://hh.ru/resume/ВАШ_ID)
 
 </td>
 <td valign="top" align="left">
