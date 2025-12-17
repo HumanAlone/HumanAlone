@@ -59,18 +59,18 @@ Here are some ideas to get you started:
 
 <table>
 <tr>
-<td valign="top" align="left">
+<td align="left">
 
+<div style="padding-top: 15px;">
 • **Email:** [SergeyNaryshkin@inbox.ru](mailto:SergeyNaryshkin@inbox.ru)<br>
 • **Telegram:** [@la_mort_rouge](https://t.me/la_mort_rouge)<br>
 • **Резюме:** [hh.ru профиль](https://hh.ru/resume/ВАШ_ID)
+</div>
 
 </td>
-<td valign="top" align="left">
+<td align="left">
 
-<div style="padding-top: 8px;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumanAlone&layout=compact&theme=default&hide_border=true&hide_title=true&exclude_repo=HumanAlone" />
-</div>
 
 </td>
 </tr>
