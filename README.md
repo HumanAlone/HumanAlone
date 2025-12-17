@@ -5,14 +5,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-
 
 # 👋 Сергей Нарышкин | Python Developer → Data Science
 
@@ -51,9 +44,8 @@ Here are some ideas to get you started:
 - **Бакалавр техники и технологии по направлению "Наземные транспортные системы"** | Московский государственный индустриальный университет (2009)
 
 ## 💻 Хакатоны
-- **Участник хакатонов**: "Лидеры цифровой трансформации 2025", "AI Devtools Hack"
-
-## 📈 GitHub активность
+- **Лидеры цифровой трансформации 2025**
+- **AI Devtools Hack**
 
 <div align="center">
 
@@ -63,7 +55,7 @@ Here are some ideas to get you started:
 
 ## 📫 Контакты
 - **Email:** [SergeyNaryshkin@inbox.ru](mailto:SergeyNaryshkin@inbox.ru)
-- **Telegram:** [@HumanAlone](https://t.me/la_mort_rouge)
+- **Telegram:** [@la_mort_rouge](https://t.me/la_mort_rouge)
 - **Резюме:** [hh.ru профиль](https://hh.ru/resume/2327398eff0f8e31850039ed1f51776879784d)
 
 ---
