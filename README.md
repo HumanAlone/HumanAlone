@@ -58,6 +58,16 @@ Here are some ideas to get you started:
 - **Telegram:** [@la_mort_rouge](https://t.me/la_mort_rouge)
 - **Резюме:** [hh.ru профиль](https://hh.ru/resume/2327398eff0f8e31850039ed1f51776879784d)
 
+## 🛠 Технологический стек
+
+**Data Science & ML:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> Python • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="16" height="16"/> Pandas • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="16" height="16"/> NumPy • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="16" height="16"/> Jupyter • Scikit-learn
+
+**Backend & Infra:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="16" height="16"/> FastAPI • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="16" height="16"/> Docker • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="16" height="16"/> PostgreSQL • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16" height="16"/> Git
+
+**NLP & LLM:** LangChain • LLM • RAG • Prompt Engineering
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+
 ---
 
 *Ищу интересные проекты в области Data Science, ML-инженерии и анализа данных*
