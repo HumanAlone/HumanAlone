@@ -51,7 +51,7 @@ Python-разработчик с 3+ годами опыта, специализ�
 </td>
 <td align="left">
 
-<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=HumanAlone&layout=compact&theme=default&hide_border=true&hide_title=true&exclude_repo=HumanAlone](https://gh-readme-stats.vercel.app/api/top-langs/?username=HumanAlone&layout=compact&theme=default&hide_border=true&hide_title=true&exclude_repo=HumanAlone)" />
+<img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=HumanAlone&layout=compact&theme=default&hide_border=true&hide_title=true&exclude_repo=HumanAlone" />
 
 </td>
 </tr>
